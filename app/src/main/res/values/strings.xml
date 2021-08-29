@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Marmeladenkleber</string>
+    <string name="cnt_desc_preview">Vorschau der aktuellen Einstellungen</string>
+    <string name="hint_titletemplate">Sortendarstellung</string>
+    <string name="hint_title">Sorte</string>
+    <string name="hint_yeartemplate">Jahresdarstellung</string>
+    <string name="hint_year">Herstellungsjahr</string>
+    <string name="text_enable_big_comment">Mit Kommentar (große Schrift)</string>
+    <string name="hint_commenttemplate">Kommentarformat</string>
+    <string name="hint_comment">Zusatztext</string>
+    <string name="text_enable_small_comment">Mit Kommentar (kleine Schrift)</string>
+    <string name="cnt_desc_print">Drucken</string>
 </resources>
